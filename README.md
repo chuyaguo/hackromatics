@@ -12,7 +12,7 @@ how to use
 import hackromatics
 
 # connect the the server
-api = hackromatic.API('http://ladotbus.com')
+api = hackromatics.API('http://ladotbus.com')
 
 # get the transit regions
 regions = api.regions()
