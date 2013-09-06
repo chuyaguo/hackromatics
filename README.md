@@ -25,8 +25,8 @@ for region in regions:
 sample sites
 ============
 Here is an incomplete list of Syncromatics hosted transit sites: 
-- UPenn Transit System (http://pennrides.com)
-- Los Angeles Department of Transportation (http://ladotbus.com)
+- UPenn Transit System ('http://pennrides.com')
+- Los Angeles Department of Transportation ('http://ladotbus.com')
 - keywest ('http://kwtransit.com') 
 - UC San Diego ('http://www.ucsdbus.com/') 
 - University of South Florida ('http://www.usfbullrunner.com')

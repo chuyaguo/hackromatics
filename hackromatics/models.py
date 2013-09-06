@@ -5,6 +5,8 @@ from datetime import datetime
 
 
 class Model:
+    '''Holds the data and also has parse functions for parsing
+    the json objects'''
     def __init__(self, api=None):
         self._api = api
 
@@ -36,18 +38,22 @@ class Model:
 
 
 class Region(Model):
+    '''A region data structure'''
     pass
 
 
 class Route(Model):
+    '''A route data structure'''
     pass
 
 
 class Vehicle(Model):
+    '''A Vehicle data structure'''
     pass
 
 
 class Waypoint(Model):
+    '''A Waypoint data structure'''
     pass
 
 
